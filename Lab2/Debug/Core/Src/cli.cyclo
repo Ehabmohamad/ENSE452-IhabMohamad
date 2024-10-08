@@ -1,0 +1,4 @@
+../Core/Src/cli.c:25:6:cli_init	1
+../Core/Src/cli.c:33:6:cli_process	8
+../Core/Src/cli.c:58:13:cli_prompt	1
+../Core/Src/cli.c:64:13:cli_execute_command	7
