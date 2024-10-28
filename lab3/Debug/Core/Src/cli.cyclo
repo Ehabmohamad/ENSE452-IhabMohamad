@@ -1,0 +1,5 @@
+../Core/Src/cli.c:23:6:cli_init	1
+../Core/Src/cli.c:43:13:cli_prompt	1
+../Core/Src/cli.c:49:13:cli_execute_command	7
+../Core/Src/cli.c:86:6:HAL_UART_RxCpltCallback	8
+../Core/Src/cli.c:111:6:HAL_UART_TxCpltCallback	3
