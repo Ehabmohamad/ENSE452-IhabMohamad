@@ -1,2 +1,2 @@
 # ENSE452-IhabMohamad
-Repository for ENSe 452 Labs.
+Repository for ENSE 452 Labs and class Assignments.
