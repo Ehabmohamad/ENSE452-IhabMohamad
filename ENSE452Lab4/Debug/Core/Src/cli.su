@@ -1,2 +1,0 @@
-../Core/Src/cli.c:27:6:cli_init	8	static
-../Core/Src/cli.c:35:6:cli_process	16	static
