@@ -1,0 +1,14 @@
+../Core/Src/timer.c:10:6:timer_init	1
+../Core/Src/timer.c:15:9:timer_start	1
+../Core/Src/timer.c:20:10:timer_stop	1
+../Core/Src/timer.c:30:6:print_result	1
+../Core/Src/timer.c:37:10:measure_add_32bit	2
+../Core/Src/timer.c:52:10:measure_add_64bit	2
+../Core/Src/timer.c:67:10:measure_multiply_32bit	2
+../Core/Src/timer.c:82:10:measure_multiply_64bit	2
+../Core/Src/timer.c:97:10:measure_divide_32bit	2
+../Core/Src/timer.c:112:10:measure_divide_64bit	2
+../Core/Src/timer.c:127:10:measure_copy_8byte	2
+../Core/Src/timer.c:140:10:measure_copy_128byte	2
+../Core/Src/timer.c:153:10:measure_copy_1024byte	2
+../Core/Src/timer.c:167:6:measure_all_operations	7
