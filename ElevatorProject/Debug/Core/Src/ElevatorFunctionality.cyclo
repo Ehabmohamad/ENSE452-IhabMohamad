@@ -1,0 +1,7 @@
+../Core/Src/ElevatorFunctionality.c:37:6:InitializeElevatorSystem	2
+../Core/Src/ElevatorFunctionality.c:56:6:CLI_Transmit	1
+../Core/Src/ElevatorFunctionality.c:62:5:CLI_Receive	5
+../Core/Src/ElevatorFunctionality.c:86:6:update_cli_display	4
+../Core/Src/ElevatorFunctionality.c:104:6:PromptFloorInput	7
+../Core/Src/ElevatorFunctionality.c:134:6:FloorSelectionTask	8
+../Core/Src/ElevatorFunctionality.c:179:6:ElevatorMovementTask	4
