@@ -1,0 +1,10 @@
+../Core/Src/ElevatorFunctionality.c:44:6:InitializeElevatorSystem	2
+../Core/Src/ElevatorFunctionality.c:68:6:CLI_Transmit	1
+../Core/Src/ElevatorFunctionality.c:74:5:CLI_Receive	5
+../Core/Src/ElevatorFunctionality.c:98:6:update_cli_display	6
+../Core/Src/ElevatorFunctionality.c:119:6:update_cli_display1	2
+../Core/Src/ElevatorFunctionality.c:142:13:get_elevator_state_description	6
+../Core/Src/ElevatorFunctionality.c:161:6:PromptFloorInput	7
+../Core/Src/ElevatorFunctionality.c:193:6:EmergencyButtonPollingTask	4
+../Core/Src/ElevatorFunctionality.c:223:6:FloorSelectionTask	13
+../Core/Src/ElevatorFunctionality.c:290:6:ElevatorMovementTask	7
