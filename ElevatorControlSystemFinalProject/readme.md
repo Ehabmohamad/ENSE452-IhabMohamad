@@ -1,6 +1,6 @@
 # Elevator Control System
 
-Link to the YOUTUBE Vieo for the demo
+Link to the YOUTUBE Video for the demo
 https://www.youtube.com/watch?v=QGCwXBBeATc
 
 ## Overview
